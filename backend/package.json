@@ -1,0 +1,14 @@
+{
+  "name": "family_menu_planner_api",
+  "version": "1.0.0",
+  "description": "API for the Family menu planner",
+  "author": "Danny Spina <hi@dannyspina.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1",
+    "mongoose": "^6.2.2"
+  }
+}
