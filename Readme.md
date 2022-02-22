@@ -5,7 +5,7 @@ The idea is to build an app, that every week will choose a menu (lunch and dinne
 ## Auto weekly menu 🤖
 
 The app will choose the meals based on the meal charachteristics, such as:
-- time needed to cook (at lunch must be something fast, ant weekends we can take more time to cook)
+- time needed to cook (e.g. at lunch must be something fast, weekends we can take more time to cook)
 - type of meal (vegetarian or not)
 - sasional ingredients
 - calories
