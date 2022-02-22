@@ -60,7 +60,7 @@ GET /recipes
 #### Add a new recipe
 
 ```http
-GET /add_recipe
+POST /add_recipe
 ```
 
 #### Body
@@ -95,7 +95,7 @@ GET /ingredients
 #### Add a new ingredient
 
 ```http
-GET /add_ingredient
+POST /add_ingredient
 ```
 
 #### Body
